@@ -1,0 +1,6 @@
+print ("Данная программа находит максимальное число из списка введнный через массив")
+input_list = input("Введите список чисел, разделенных пробелом: ").split()
+#print("Введенный список:", input_list)
+result_list = list(map(int, input_list))
+#print ('Введен массив чисел', result_list)
+print ('Максимальное число в списке', max(result_list))
