@@ -2,6 +2,8 @@
 
 # Lesson 1. Basic commands.
 
+А давай создадим Pull Request
+
 ## Создаем репозиторий в папке
 
 > git init
